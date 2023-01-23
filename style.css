@@ -257,17 +257,17 @@ team
     width: 90px;
     height: 90px;
 }
-
-.blog-item img {
-    transition: .75s;
+.act{
+    min-height: 500px;
 }
-
-.blog-item:hover img {
-    transform: scale(1.2);
-}
-
 @media (min-width: 991.98px) {
     .credit {
         background: var(--primary);
+    }
+    .act{
+        min-height: 200px;
+    }
+    .we{
+        margin-bottom:2rem;
     }
 }
