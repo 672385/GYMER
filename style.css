@@ -34,7 +34,7 @@
 }
 .us{
     margin-top:2rem;
-    height:250px;
+    height:300px;
 }
 .tab-content{
     padding-top:2rem;
@@ -266,8 +266,5 @@ team
     }
     .act{
         min-height: 200px;
-    }
-    .we{
-        margin-bottom:2rem;
     }
 }
